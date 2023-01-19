@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881588139131",
+    "project_id": "lgregisternube-e7b46",
+    "storage_bucket": "lgregisternube-e7b46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881588139131:android:6ee8be067025e33c84dede",
+        "android_client_info": {
+          "package_name": "com.example.devmovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881588139131-79mfktoqvja6v46bi76bal2u4u293iut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz3DykL0rVoDE_Hqg7C8TYRmI7byF54L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881588139131-79mfktoqvja6v46bi76bal2u4u293iut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
